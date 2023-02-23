@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+style<!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="styles.css"/>
+    <link rel="stylesheet" href="style.css"/>
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
@@ -22,9 +22,12 @@
 
     <nav id="navbar" class="nav">
       <div class="nav">
-      <ul class="nav-list">
+        <image class="logo" src="https://t3.ftcdn.net/jpg/04/83/17/70/360_F_483177004_1oM8bltG2ZGIIdlem8W2v18LYRlUM1tQ.jpg">
+      <ul class="nav-list"
         <li>
           <a href="#welcome-section">About</a>
+        </li>
+        <a href="#vision">Vision</a>
         </li>
         <li>
           <a href="#projects">Work</a>
@@ -41,8 +44,9 @@
     <!-- START WELCOME SECTION -->
 
     <section id="welcome-section" class="welcome-section">
-      <h1>Hey I am RICK MWANGI</h1>
-      <p>a web developer</p>
+      <h1>Welcome! I am <br>RICK MWANGI</h1>
+      <p>A web developer<br> <br>Teacher Mentor</p>
+     
     </section>
 
     <!-- END WELCOME SECTION -->
@@ -151,13 +155,7 @@
         </a>
       </div>
 
-      <a
-        href="https://codepen.io/FreeCodeCamp/"
-        class="btn btn-show-all"
-        target="_blank"
-        >Show all<i class="fas fa-chevron-right"></i
-      ></a>
-    </section>
+      
 
     <!-- END PROJECTS SECTION -->
 
@@ -166,21 +164,21 @@
     <section id="contact" class="contact-section">
       <div class="contact-section-header">
         <h2>Let's work together...</h2>
-        <p>How do you take your coffee?</p>
+        <p>How can I help you?</p>
       </div>
-      <div class="contact-link
-        <a
-          href=""
+      <div class="contact-link">
+        <a 
+          href="https://www.facebook.com/patrickmwangi698"
           target="_blank"
           class="btn contact-details"
           ><i class="fab fa-facebook-square"></i> Facebook</a
         >
         <a
           id="profile-link"
-          href=""
+          href="https://replit.com/@rick23/"
           target="_blank"
           class="btn contact-details"
-          ><i class="fab fa-github"></i> GitHub</a
+          ><i class="fab fa-github"></i> RIPLIT</a
         >
         <a
           href="https://twitter.com/Patrick82342133"
@@ -188,10 +186,10 @@
           class="btn contact-details"
           ><i class="fab fa-twitter"></i> Twitter</a
         >
-        <a href="" class="btn contact-details"><i class="fas fa-at"></i> Send a mail</a
+        <a href="gmailto:patrickmwangi2354@gmail.com" class="btn contact-details"><i class="fas fa-at"></i> Send a mail</a
         >
         <a href="" class="btn contact-details"
-          ><i class="fas fa-mobile-alt"></i> Call 0715...327</a
+          ><i class="fas fa-mobile-alt"></i> Call +254112060400</a
         >
       </div>
     </section>
